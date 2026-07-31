@@ -1,0 +1,10 @@
+data/jobs/
+dist/
+node_modules/
+.DS_Store
+*.log
+.env
+.env.*
+__pycache__/
+*.pyc
+.cache/
